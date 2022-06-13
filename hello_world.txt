@@ -1,0 +1,8 @@
+hello world,
+im adding text for the purpose 
+of practicing git
+
+
+woo
+
+another edit hehe
